@@ -15,3 +15,13 @@ Try celery worker
 https://docs.celeryproject.org/en/stable/
 
 https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#first-steps
+
+## Next
+
+https://docs.celeryproject.org/en/stable/getting-started/next-steps.html#next-steps
+
+https://docs.celeryproject.org/en/stable/userguide/index.html#guide
+
+## Troubleshooting
+
+https://docs.celeryproject.org/en/stable/faq.html#faq
